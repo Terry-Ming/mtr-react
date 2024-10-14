@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mtr-react/static/css/main.36dc0e93.css",
+    "main.js": "/mtr-react/static/js/main.7ae7b1a1.js",
+    "static/js/453.b1443fa5.chunk.js": "/mtr-react/static/js/453.b1443fa5.chunk.js",
+    "index.html": "/mtr-react/index.html",
+    "main.36dc0e93.css.map": "/mtr-react/static/css/main.36dc0e93.css.map",
+    "main.7ae7b1a1.js.map": "/mtr-react/static/js/main.7ae7b1a1.js.map",
+    "453.b1443fa5.chunk.js.map": "/mtr-react/static/js/453.b1443fa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36dc0e93.css",
+    "static/js/main.7ae7b1a1.js"
+  ]
+}
